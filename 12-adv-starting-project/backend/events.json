@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"adsa","image":"https://cdn.assets.tomorrowland.com/2020/opengraph.jpg","date":"2023-03-06","description":"dasdas","id":"87b4b744-1ed0-46be-82bb-b4621cb29f10"},{"title":"test","image":"https://cdn.assets.tomorrowland.com/2020/opengraph.jpg","date":"2023-03-21","description":"test","id":"c94907b3-3877-4920-8b45-e01d39230ba0"},{"title":"das","image":"https://edm.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc0MjYzODMyMzQyOTY0MDky/1-3.jpg","date":"2023-03-04","description":"asdsad","id":"5f55049e-19b8-4d2b-88c5-87c8d6046321"},{"title":"qwe","image":"https://news.fintechnexus.com/wp-content/uploads/2022/03/Tomorrowland-1.jpeg","date":"2023-03-15","description":"qwe","id":"424a6610-583b-4841-9de3-d47f06bbb321"},{"title":"dasd","image":"https://news.fintechnexus.com/wp-content/uploads/2022/03/Tomorrowland-1.jpeg","date":"2023-03-14","description":"dasdasd","id":"17ee8fc2-75bb-4908-8996-f031f7d413af"},{"title":"test","image":"https://news.fintechnexus.com/wp-content/uploads/2022/03/Tomorrowland-1.jpeg","date":"2023-03-22","description":"test","id":"8b493be3-e5c7-4ce1-8c64-17fbf10b3113"},{"title":"test","image":"https://news.fintechnexus.com/wp-content/uploads/2022/03/Tomorrowland-1.jpeg","date":"2023-03-22","description":"test","id":"23844375-7b57-4e66-8fc4-1ca13bd3aab1"},{"title":"tomorrowland","image":"https://news.fintechnexus.com/wp-content/uploads/2022/03/Tomorrowland-1.jpeg","date":"2023-03-22","description":"some awesome event","id":"ad38b726-6a17-44bf-85f9-795f608a4fa2"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
